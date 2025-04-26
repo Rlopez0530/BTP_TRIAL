@@ -1,0 +1,1 @@
+using full_Stack_cdsSrv as service from '../../srv/service';
